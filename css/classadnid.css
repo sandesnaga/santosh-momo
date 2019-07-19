@@ -1,0 +1,17 @@
+/*This is class and Id experiment
+you can have only one id but can have more than one class*/
+h1{
+    font-size: 22px;
+    color: aqua;
+    background-color: black;
+}
+#main{
+    font-size: 33px;
+    color: red;
+    background-color: blue;
+}
+.content{
+    font-size: 11px;
+    color: gold;
+    background-color: black;
+}

@@ -1,0 +1,30 @@
+/*Css Positionoing*/
+
+#parent_div {
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+    margin: 100px auto;
+    /*position: relative;*/
+    
+    /*position: fixed;*/
+
+}
+
+#child_div {
+    width: 900px;
+    height: 30px;
+    background-color: gray;
+    /*position: absolute;*/
+    /*top: 90px;    
+    right: 100px;
+    bottom: 
+    position: relative;
+    top: 20;
+    right: 40;*/
+    position: fixed;
+    bottom: 50;
+    left: 0;
+
+
+}
